@@ -28,6 +28,6 @@ export default {
     InstaShayna,
     PartnerShayna,
     FooterShayna
-}
+  }
 }
 </script>
